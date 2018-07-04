@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <name>Mubashir Nisar</name>
+    <contact>
+        <mobile>+447515822901</mobile>
+        <email>ping@mubashir.me</email>
+        <facebook></facebook>
+        <linkedin></linkedin>
+    </contact>
+    <about></about>
+    <jobhistory>
+        <employer>
+            <name>IHG</name>
+            <jobtitle>Senior Developer</jobtitle>
+            <years>8</years>
+            <responsibilities></responsibilities>
+        </employer>
+    </jobhistory>
+    <educationhistory>
+        <degree>
+            <institute>University of Herfordshire</institute>
+            <degreetitle>Masters of Computer Science</degreetitle>
+            <year></year>
+        </degree>
+    </educationhistory>
+    <interests>
+        <hobbies>
+            <title>Cycling</title>
+            <accomplishment></accomplishment>
+        </hobbies>
+        <hobbies>
+            <title>Hiking</title>
+            <accomplishment></accomplishment>
+        </hobbies>
+    </interests>
+</business>
